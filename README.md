@@ -17,7 +17,7 @@
 
 ## Some platforms are being importance im this journey
 - Netacad
-- Learn Google, AWS, MS
+- Learn Google, AWS, MS, Snowflake
 - DataCamp
 - Kaggle
 - CodeChef
