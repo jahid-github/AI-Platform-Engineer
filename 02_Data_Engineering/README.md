@@ -25,6 +25,7 @@ Data engineers build and maintain the infrastructure that enables data to flow f
 - Data modeling: Star Schema, Snowflake Schema, OBT
 - dbt Core for SQL-based transformation layers
 - Data quality and validation (Great Expectations)
+- Terraform (Language to inetrect with data)
 
 ### 4. Workflow Orchestration
 - Apache Airflow: DAGs, operators, sensors, XComs
