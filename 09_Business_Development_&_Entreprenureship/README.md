@@ -1,4 +1,4 @@
-# Phase 12 - Business Development & Entrepreneurship
+# Business Development & Entrepreneurship
 ## Core Business Areas
 
 | Area | What to learn | Why it matters for IT products |
@@ -53,4 +53,3 @@
 - Define activation, retention, and expansion milestones
 
 ---
-## Sheets

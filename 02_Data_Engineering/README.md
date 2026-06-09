@@ -1,4 +1,4 @@
-# Phase 2 — Data Engineering
+# Data Engineering
 
 ### Learning Resources
 - [DataTalks.Club Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) — best free DE course

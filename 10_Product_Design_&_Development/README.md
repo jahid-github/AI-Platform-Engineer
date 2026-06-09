@@ -1,4 +1,4 @@
-# Phase 13 - Product Design and Development
+# Product Design and Development
 
 ## Development Flow
 

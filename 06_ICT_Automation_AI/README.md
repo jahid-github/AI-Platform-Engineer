@@ -1,4 +1,4 @@
-# Phase 9 — AI Engineering, LLMs, and ICT Automation
+# AI Engineering, LLMs, and ICT Automation
 
 Modern AI products increasingly depend on engineering **around** models — not only the models themselves. This phase covers LLM application design, retrieval systems, agentic workflows, and deploying production-grade AI automation systems.
 

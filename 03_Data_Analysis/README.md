@@ -1,4 +1,4 @@
-# Phase 3 — Data Analysis
+# Data Analysis
 
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data to discover insights and support decisions. This phase covers the full Python-based analytical stack plus BI and visualization tools.
 

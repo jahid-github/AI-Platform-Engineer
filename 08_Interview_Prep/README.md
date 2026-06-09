@@ -1,7 +1,5 @@
 # Interview Prep
 
-Structured preparation for Data Science, ML Engineering, and AI/Robotics roles aligned with this learning path.
-
 ---
 
 ## 1. Python & Programming
