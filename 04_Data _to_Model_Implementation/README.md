@@ -48,6 +48,18 @@ Machine learning enables systems to learn patterns from data and make prediction
 
 ## PDF Resources
 
+- [KNN Algorithm](KNNAlgorithm.pdf)
+- [Machine Learning Basics](MachineLearningBasics.pdf)
+- [Machine Learning Sheet 1](MachineLearningSheet1.pdf)
+- [Machine Learning Sheet 2](MachineLearningSheet2.pdf)
+- [Machine Learning Sheet 3](MachineLearningSheet3.pdf)
+- [Machine Learning Sheet 4](MachineLearningSheet4.pdf)
+- [Machine Learning Sheet 5](MachineLearningSheet5.pdf)
+- [Machine Learning Sheet 6](MachineLearningSheet6.pdf)
+- [Machine Learning Sheet 7](MachineLearningSheet7.pdf)
+
+------
+
 * [Machine Learning Cheat Sheet](./ML+Cheat+Sheet_2.pdf)
 * [Scikit-Learn Cheat Sheet](./Scikit-Learn_Cheat_Sheet.pdf)
 * [Supervised Machine Learning Models](./Supervised_Machine_Learning_Models.pdf)
@@ -84,8 +96,10 @@ Strong evidence:
 - business interpretation of results
 
 ## Machine Learning Projects
+
 ### pre-Developing Projects
 [Here is the 33 projects list ](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels)
+
 ### Developing Projects
 
 # Deep Learning and NLP
@@ -243,9 +257,8 @@ NLP enables machines to understand, process, and generate human language. It und
 - [Kaggle: Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing)
 
 # Machine and Computer Vision
-# Phase 7 — Machine and Computer Vision
 
-Computer vision gives machines the ability to interpret and understand the visual world. It is one of the most impactful application areas of modern AI and the **primary perception layer for Physical AI and Robotics** (Phase 8).
+Computer vision gives machines the ability to interpret and understand the visual world. It is one of the most impactful application areas of modern AI and the **primary perception layer for Physical AI and Robotics**.
 
 **Application domains:**
 - Image classification, object recognition
@@ -355,15 +368,6 @@ Strong vision practitioners develop:
 ---
 
 ## Resources
-
-* [Stanford CS231n: CNNs for Visual Recognition](https://cs231n.stanford.edu/)
-* [OpenCV Documentation and Tutorials](https://docs.opencv.org/4.x/)
-* [PyTorch Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
-* [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
-* [fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
-* [Kaggle Learn: Computer Vision](https://www.kaggle.com/learn/computer-vision)
-* [DataCamp Computer Vision Courses](https://www.datacamp.com/courses-all?technology=Computer+Vision)
-
 ## PDF Sheets
 
 ### Computer Vision
@@ -375,16 +379,16 @@ Strong vision practitioners develop:
 - [Computer Vision Sheet 4](ComputerVisionSheet4.pdf)
 - [Computer Vision Sheet 5](ComputerVisionSheet5.pdf)
 
-### Machine Learning
-- [KNN Algorithm](KNNAlgorithm.pdf)
-- [Machine Learning Basics](MachineLearningBasics.pdf)
-- [Machine Learning Sheet 1](MachineLearningSheet1.pdf)
-- [Machine Learning Sheet 2](MachineLearningSheet2.pdf)
-- [Machine Learning Sheet 3](MachineLearningSheet3.pdf)
-- [Machine Learning Sheet 4](MachineLearningSheet4.pdf)
-- [Machine Learning Sheet 5](MachineLearningSheet5.pdf)
-- [Machine Learning Sheet 6](MachineLearningSheet6.pdf)
-- [Machine Learning Sheet 7](MachineLearningSheet7.pdf)
+----------
+
+* [Stanford CS231n: CNNs for Visual Recognition](https://cs231n.stanford.edu/)
+* [OpenCV Documentation and Tutorials](https://docs.opencv.org/4.x/)
+* [PyTorch Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+* [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)
+* [fast.ai Practical Deep Learning for Coders](https://course.fast.ai/)
+* [Kaggle Learn: Computer Vision](https://www.kaggle.com/learn/computer-vision)
+* [DataCamp Computer Vision Courses](https://www.datacamp.com/courses-all?technology=Computer+Vision)
+
 
 ## Computer Vision Project
 
