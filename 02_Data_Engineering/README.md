@@ -6,10 +6,11 @@
 
 ### 1. SQL & Databases (Foundation)
 - [SQL](https://www.w3schools.com/sql/default.asp), [SQL Full Course for Beginners (30 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=SSKVgrwhzus&t=1287s), [SQl with AI](./introduction-to-sql-with-ai.pdf)
-- Relational Databases: PostgreSQL, MySQL, SQL Server
-- [NoSQL (Irrelational Databases)](https://app.datacamp.com/learn/courses/introduction-to-nosql): [MongoDB (document)] (https://www.w3schools.com/mongodb/index.php), [Redis (cache)](https://www.youtube.com/watch?v=XCsS_NVAa1g), InfluxDB (time-series)
+- Relational Databases: [PostgreSQL](https://www.w3schools.com/postgresql/index.php), [MySQL](https://www.w3schools.com/mysql/default.asp), SQL Server
+- [NoSQL (Irrelational Databases)](https://app.datacamp.com/learn/courses/introduction-to-nosql): [MongoDB (document)](https://www.w3schools.com/mongodb/index.php), [Redis (cache)](https://www.youtube.com/watch?v=XCsS_NVAa1g), InfluxDB (time-series)
 - Analytical: BigQuery, Snowflake, Azure Synapse, DuckDB
 - Vector DBs: Weaviate, Pinecone (needed for RAG systems)
+- DB Client: DBeaver
 
 ### 2. [Python for Data Engineering](https://www.w3schools.com/python/default.asp)
 - File formats: CSV, JSON, Parquet, Avro, Delta
@@ -22,7 +23,7 @@
 - ETL vs ELT — when to transform before vs after loading
 - Batch pipelines: extract → transform → load patterns
 - Data modeling: Star Schema, Snowflake Schema, OBT
-- dbt Core for SQL-based transformation layers, [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals), [dbt Core](https://github.com/dbt-labs/dbt-core)
+- [dbt Core](https://github.com/dbt-labs/dbt-core) for SQL-based transformation layers, [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals)
 - Data quality and validation (Great Expectations)
 - Terraform (Language to inetrect with data)
 
