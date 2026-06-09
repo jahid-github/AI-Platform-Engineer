@@ -1,7 +1,5 @@
-# Data Science Learning Path
 ## Index
-
-1. [01_Fundamentals](./01_Fundamentals/)
+1. [01_IT_Support_and_Fundamentals](./01_IT_Support_and_Fundamentals/)
 2. [02_Data_Engineering](./02_Data_Engineering/)
 3. [03_Data_Analysis](./03_Data_Analysis/)
 4. [04_Machine_Learning](./04_Machine_Learning/)
@@ -24,3 +22,4 @@
 - FreeCodeCamp
 - HackerRank
 - WorldQuant
+- W3Schools
