@@ -3,8 +3,8 @@
 - Beginner–Intermediate: [Fundamentals of Data Engineering](https://drive.google.com/file/d/1GGr6Looa8cXZPRGnCWMQdqh9pX2tLWfI/view?usp=drivesdk)
 - Intermediate: [Designing Data-Intensive Applications](https://drive.google.com/file/d/1EeBHEkL9axAolvUX3Yr1NRNOShWXYTGq/view?usp=drivesdk)
 - Intermediate: [Python for Data Analysis, 3rd Ed.](https://drive.google.com/file/d/1Lw2FhIn-Piao7TVM__uyV_5RkZMQsTdx/view?usp=drivesdk)
-- Intermediate–Advanced: Streaming Systems
-- Advanced: Designing Data-Intensive Applications, 2nd Ed.
+- Intermediate–Advanced: [Streaming Systems](https://drive.google.com/file/d/1yYG1dvwY3wV_JRQbsac_v_v9n8Y857Lz/view?usp=drivesdk)
+- Advanced: [Designing Data-Intensive Applications, 2nd Ed.](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 
 
 ### Learning Resources
