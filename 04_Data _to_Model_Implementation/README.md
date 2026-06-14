@@ -291,7 +291,12 @@ Computer vision gives machines the ability to interpret and understand the visua
 | **CLIP** | Vision-language model — connect images and text (OpenAI) |
 
 ---
-
+* Beginner: Programming Computer Vision with Python
+* Beginner–Intermediate: Learning OpenCV 5 Computer Vision with Python
+* Intermediate: Modern Computer Vision with PyTorch, 2nd Ed.
+* Intermediate–Advanced: Deep Learning for Computer Vision
+* Project-focused OpenCV: Computer Vision Projects with Python
+---
 ## Learning Steps
 
 ### Classical Computer Vision (OpenCV)
