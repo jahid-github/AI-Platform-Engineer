@@ -122,7 +122,7 @@ Strong evidence:
 5. 
 
 ------
-------
+
 # Machine and Computer Vision
 
 Computer vision gives machines the ability to interpret and understand the visual world. It is one of the most impactful application areas of modern AI and the **primary perception layer for Physical AI and Robotics**.

@@ -11,8 +11,8 @@
 10. [10_Product_Design_&_Development](./10_Product_Design_%26_Development/)
 
 ## Some platforms are being importance im this journey
-- Netacad
-- Learn Google, AWS, MS, Snowflake
+- [Netacad](https://www.netacad.com/catalogs/learn)
+- Learn Google, AWS, MS, Snowflake, Databricks
 - DataCamp
 - Kaggle
 - CodeChef
@@ -20,3 +20,4 @@
 - HackerRank
 - WorldQuant
 - W3Schools
+- [Data Professional Certification](./Data_Certification.jpeg)
