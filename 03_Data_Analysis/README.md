@@ -1,5 +1,17 @@
 # Data Analysis
 
+Beginner: Learning SQL, 3rd Ed.
+
+Beginner–Intermediate: Practical SQL, 2nd Ed.
+
+Intermediate: Python for Data Analysis, 3rd Ed.
+
+Intermediate: Practical Statistics for Data Scientists
+
+Intermediate–Advanced: SQL for Data Analysis
+
+Visualization: [Data Visualization with Python and JavaScript](https://learning.oreilly.com/library/view/data-visualization-with/9781098111861/)
+
 ### 1. [NumPy — Numerical Computing](https://www.w3schools.com/python/numpy/default.asp)
 - Multidimensional arrays, vectorized operations, broadcasting
 - Mathematical functions: linear algebra, statistics, Fourier transforms
