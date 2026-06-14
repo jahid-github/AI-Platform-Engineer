@@ -40,6 +40,11 @@
 ---
 
 ### Python Personal Notes
+* [Learning Puthon Ed 6](https://drive.google.com/file/d/1STO_Ima8QD0FMR7MR7HletOpUf0MVcGX/view?usp=drivesdk)
+* [Python Crash Course 3rd Ed](https://drive.google.com/file/d/1XzDat1Ps-QuX3WPs4B1aTQ_DbMg34zPV/view?usp=drivesdk)
+* [Automate the boring stuff with puthon](https://drive.google.com/file/d/11ceNrR2sWzoXVDFYNkOvfDI8_IlAT6vR/view?usp=drivesdk)
+* [Fluent Puthon](https://drive.google.com/file/d/12gqvCDjPYRPfK1rSl1cAk4obb2357nil/view?usp=drivesdk)
+* [Python Cookbook](https://drive.google.com/file/d/14wtfQUisc7tTf3FAVVD0BQjrmkFs4pFh/view?usp=drivesdk)
 * [Python Basics Cheat Sheet](./15python-basics-cheat-sheet-v4.pdf)
 * [Python Cheat Sheet](./16python-cheat-sheet.pdf)
 * [Become a Python Developer]()
