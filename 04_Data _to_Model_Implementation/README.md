@@ -52,16 +52,15 @@ Machine learning enables systems to learn patterns from data and make prediction
 ---
 
 ## PDF Resources
-
-- [KNN Algorithm](KNNAlgorithm.pdf)
-- [Machine Learning Basics](MachineLearningBasics.pdf)
-- [Machine Learning Sheet 1](MachineLearningSheet1.pdf)
-- [Machine Learning Sheet 2](MachineLearningSheet2.pdf)
-- [Machine Learning Sheet 3](MachineLearningSheet3.pdf)
-- [Machine Learning Sheet 4](MachineLearningSheet4.pdf)
-- [Machine Learning Sheet 5](MachineLearningSheet5.pdf)
-- [Machine Learning Sheet 6](MachineLearningSheet6.pdf)
-- [Machine Learning Sheet 7](MachineLearningSheet7.pdf)
+- [Machine Learning Basics](./MachineLearningBasics.pdf)
+- [Intro to ML](./MachineLearningSheet1.pdf)
+- [Data Cleansing](MachineLearningSheet2.pdf)
+- [KNN Algorithm Basics](./KNNAlgorithm.pdf)
+- [KNN Algorithm Full](./MachineLearningSheet3.pdf)
+- [Training set, Classes and  Classifier](./MachineLearningSheet4.pdf)
+- [Clustering](./MachineLearningSheet5.pdf)
+- [Confusion Matrix](./MachineLearningSheet6.pdf)
+- [Covariance and Corelation](./MachineLearningSheet7.pdf)
 
 ------
 
@@ -354,41 +353,22 @@ Computer vision gives machines the ability to interpret and understand the visua
 
 ---
 
-## Future-Ready Skills
-
-Strong vision practitioners develop:
-- Intuition about data quality and labeling quality
-- Comfort with transfer learning over training from scratch
-- Understanding of multimodal AI (image + language)
-- Awareness of model size, latency, and hardware constraints
-- Ability to compare fast practical models vs high-accuracy heavier models
-- Evaluation habits on real failure cases, not only benchmark scores
 
 ---
 
-## How to Study This Section Well
-
-- Inspect raw images — understand how preprocessing changes the input
-- Compare classical OpenCV methods with CNN-based approaches
-- Train at least one image classifier and analyze failure cases
-- Study object detection and segmentation separately — their goals and metrics are different
-- Use transfer learning early — it reflects practical industry workflows
-- Pay attention to inference speed, especially for edge and robotics use cases
-
----
 
 ## Resources
 ## PDF Sheets
 
 ### Computer Vision
-- [Computer Vision Sheet 1](ComputerVisionSheet1.pdf)
+- [Intro to Computer Vision](ComputerVisionSheet1.pdf)
 - [CV_BasicOperations_Code](CV_BasicOperations_Code.pdf)
 -[HighLowPassFiltering_Code](HighLowPassFiltering_Code.pdf)
-- [Computer Vision Sheet 2](ComputerVisionSheet2.pdf)
-- [Computer Vision Sheet 3](ComputerVisionSheet3.pdf)
-- [Computer Vision Sheet 4](ComputerVisionSheet4.pdf)
-- [Computer Vision Sheet 5](ComputerVisionSheet5.pdf)
-
+- [Fourier Transform](ComputerVisionSheet2.pdf)
+- [Image Segmentation](ComputerVisionSheet3.pdf)
+- [ Image Edge](ComputerVisionSheet4.pdf)
+- [Back propagation and Epoch](ComputerVisionSheet5.pdf)
+- [MINST Datebse](./MNISTDatabase_Code.pdf)
 ----------
 
 * [Stanford CS231n: CNNs for Visual Recognition](https://cs231n.stanford.edu/)
