@@ -3,7 +3,12 @@
 Machine learning enables systems to learn patterns from data and make predictions or decisions without being explicitly programmed. This phase covers classical ML — the algorithms that still power most production systems today.
 
 ---
-
+- Beginner: [Introduction to Machine Learning with Python](https://drive.google.com/file/d/1tNK2V7OUcfQBKv1_U-mMSFYUyePpROHm/view?usp=drivesdk)
+- Intermediate: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed.](https://drive.google.com/file/d/1MD34rI4JZNVHqir3Kpl0RUBjx53_oi8s/view?usp=drivesdk)
+- Intermediate–Advanced: [Designing Machine Learning Systems](https://drive.google.com/file/d/1DtVOYvfhLmiQJO1NmxAyI_ZC51guuJeZ/view?usp=drivesdk)
+- Advanced / production: [Machine Learning Production Systems](https://learning.oreilly.com/library/view/machine-learning-production/9781098156008/)
+- Advanced system design: [Machine Learning System Design](https://learning.oreilly.com/videos/machine-learning-system/9781633438750VE/)
+---
 ## Learning Steps
 
 ### 1. Supervised Learning
