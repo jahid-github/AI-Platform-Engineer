@@ -25,12 +25,13 @@
 - API consumption and web scraping
 - Scheduling and automation with Python scripts
 - [Python Full Course for Beginners (13 Hours) – From Zero to Hero](https://www.youtube.com/watch?v=Rq5gJVxz55Q&list=PLNcg_FV9n7qZGfFl2ANI_zISzNp257Lwn)
+- [Building APIs in Python DataCamp Course](https://app.datacamp.com/learn/skill-tracks/building-apis-in-python)
 
 ### 3. ETL / ELT Pipelines
 - ETL vs ELT — when to transform before vs after loading
 - Batch pipelines: extract → transform → load patterns
 - Data modeling: Star Schema, Snowflake Schema, OBT
-- [dbt Core](https://github.com/dbt-labs/dbt-core) for SQL-based transformation layers, [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals)
+- [dbt Core](https://github.com/dbt-labs/dbt-core) for SQL-based transformation layers, [dbt Fundamentals](https://courses.getdbt.com/courses/fundamentals), [dbt DataCamp course](https://app.datacamp.com/learn/skill-tracks/dbt-fundamentals)
 - Data quality and validation (Great Expectations)
 - Terraform (Language to inetrect with data)
 
@@ -55,7 +56,7 @@
 - [AWS DataCamp Course](https://app.datacamp.com/learn/skill-tracks/aws-cloud-practitioner-clf-c02)
 - [Snowflake All DataCamp Courses](https://app.datacamp.com/learn/skill-tracks?topics=17)
 
-### 7. Containerization & Orchestration
+### 7. Containerization & Orchestration [Containerization and Virtualization with Docker and Kubernetes DataCamp Course](https://app.datacamp.com/learn/skill-tracks/containerization-and-virtualization)
 - Docker: containerize pipelines and services
 - Docker Compose: multi-service local environments
 - Kubernetes: deploying and scaling data services
