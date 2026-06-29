@@ -56,7 +56,7 @@ Machine learning enables systems to learn patterns from data and make prediction
 - Beginner: [Introduction to Machine Learning with Python](https://drive.google.com/file/d/1tNK2V7OUcfQBKv1_U-mMSFYUyePpROHm/view?usp=drivesdk)
 - Intermediate: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed.](https://drive.google.com/file/d/1EK11Fq_KzvmzSOyLK1Xbu66kStcqndbG/view?usp=drive_link) [Youtube Course Playlist](https://www.youtube.com/playlist?list=PLmp4AHm0u1g3evuqj8zX3q75GHjfAwOLs)
 - Intermediate–Advanced: [Designing Machine Learning Systems](https://drive.google.com/file/d/1DtVOYvfhLmiQJO1NmxAyI_ZC51guuJeZ/view?usp=drivesdk)
-- Advanced / production: [Machine Learning Production Systems](https://learning.oreilly.com/library/view/machine-learning-production/9781098156008/)
+- Advanced / production: [Machine Learning Production Systems](https://drive.google.com/file/d/11E_mO8YRhd-fEvKtZeNKJn1WMCFsrCxI/view?usp=drive_link)
 - Advanced system design: [Machine Learning System Design](https://learning.oreilly.com/videos/machine-learning-system/9781633438750VE/)
 
 ### Academic Sheet
