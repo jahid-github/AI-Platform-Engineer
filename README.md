@@ -1,16 +1,17 @@
 ## Books for the Preparation
 | SL No | Python | SQL | DE | DA | ML and DL | CV | AI and Automation | Robotics |
 |-------|--------|-----|----|----|-----------|----|-------------------|----------|
-| 1 | | | | | | | | |
-| 2 | | | | | | | | |
-| 3 | | | | | | | | |
-| 4 | | | | | | | | |
-| 5 | | | | | | | | |
-| 6 | | | | | | | | |
-| 7 | | | | | | | | |
-| 8 | | | | | | | | |
-| 9 | | | | | | | | |
-| 10 | | | | | | | | |
+| 1 | [Learning Python Ed 6](https://drive.google.com/file/d/1STO_Ima8QD0FMR7MR7HletOpUf0MVcGX/view?usp=drivesdk) | | | | | | | |
+| 2 | [Python Crash Course 3rd Ed](https://drive.google.com/file/d/1XzDat1Ps-QuX3WPs4B1aTQ_DbMg34zPV/view?usp=drivesdk) | | | | | | | |
+| 3 | [Automate the boring stuff with puthon](https://drive.google.com/file/d/11ceNrR2sWzoXVDFYNkOvfDI8_IlAT6vR/view?usp=drivesdk) | | | | | | | |
+| 4 | [Fluent Puthon](https://drive.google.com/file/d/12gqvCDjPYRPfK1rSl1cAk4obb2357nil/view?usp=drivesdk) | | | | | | | |
+| 5 | [Python Cookbook](https://drive.google.com/file/d/14wtfQUisc7tTf3FAVVD0BQjrmkFs4pFh/view?usp=drivesdk) | | | | | | | |
+| 6 | [Python Basics Cheat Sheet](./15python-basics-cheat-sheet-v4.pdf) | | | | | | | |
+| 7 | [Python Cheat Sheet](./16python-cheat-sheet.pdf) | | | | | | | |
+| 8 | [Become a Python Developer]() | | | | | | | |
+| 9 | [115 Python Problem](./17Python_Problems_115.ipynb) | | | | | | | |
+| 10 | [FreeCodeCamp Python OOP](./18Python%20OOP.ipynb) | | | | | | | |
+
 
 ## DataCamp Career Track Course Ordered By Importancy 
 
