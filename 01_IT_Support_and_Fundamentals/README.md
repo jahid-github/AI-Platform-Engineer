@@ -5,12 +5,12 @@
 | Category | Tools |
 |----------|-------|
 | **Languages** | Python · SQL |
-| **Environment** | Jupyter/Snowflake/Colab Notebook · VS Code · Conda |
+| **Environment** | Jupyter/Snowflake/Colab Notebook · VS Code |
 | **Version Control** | Git · GitHub |
 | **Containers** | Docker · Docker Compose |
 | **Shell** | Bash · PowerShell |
 | **Infrastructure** | Kubernetes · NGINX · GitHub Actions (CI/CD) |
-| **DB Client** | DBeaver |
+| **DB Client** | DBeaver . Datagrip |
 | **Markup** | Markdown · LaTeX · Quarto |
 
 ---
