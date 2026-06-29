@@ -1,4 +1,4 @@
-## Books for thevPreparation
+## Books for the Preparation
 | SL No | Python | SQL | DE | DA | ML and DL | CV | AI and Automation | Robotics |
 |-------|--------|-----|----|----|-----------|----|-------------------|----------|
 | 1 | | | | | | | | |
