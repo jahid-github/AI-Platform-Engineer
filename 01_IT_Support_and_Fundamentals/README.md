@@ -22,6 +22,7 @@
 * [Regression Module](./3regression.pdf)
 * [Statistics Module](./4statistics.pdf)
 * [Probability Cheat Sheet](./5Probability_Cheat_Sheet.pdf)
+* [Youtube Vedio Playlist](https://www.youtube.com/@3blue1brown)
 
 ---
 
