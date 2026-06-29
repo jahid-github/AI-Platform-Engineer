@@ -54,7 +54,7 @@ Machine learning enables systems to learn patterns from data and make prediction
 ### O'reilly
 
 - Beginner: [Introduction to Machine Learning with Python](https://drive.google.com/file/d/1tNK2V7OUcfQBKv1_U-mMSFYUyePpROHm/view?usp=drivesdk)
-- Intermediate: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed.](https://drive.google.com/file/d/1MD34rI4JZNVHqir3Kpl0RUBjx53_oi8s/view?usp=drivesdk)
+- Intermediate: [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed.](https://drive.google.com/file/d/1MD34rI4JZNVHqir3Kpl0RUBjx53_oi8s/view?usp=drivesdk) [Youtube Course Playlist](https://www.youtube.com/playlist?list=PLmp4AHm0u1g3evuqj8zX3q75GHjfAwOLs)
 - Intermediate–Advanced: [Designing Machine Learning Systems](https://drive.google.com/file/d/1DtVOYvfhLmiQJO1NmxAyI_ZC51guuJeZ/view?usp=drivesdk)
 - Advanced / production: [Machine Learning Production Systems](https://learning.oreilly.com/library/view/machine-learning-production/9781098156008/)
 - Advanced system design: [Machine Learning System Design](https://learning.oreilly.com/videos/machine-learning-system/9781633438750VE/)
@@ -85,7 +85,6 @@ Machine learning enables systems to learn patterns from data and make prediction
 - [ML RoadMap Bangla](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfWY36nDJDlI26jXwInSm8f)
 - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
-- [Hands-On ML with Scikit-Learn, Keras & TensorFlow — Aurélien Géron](https://github.com/ageron/handson-ml3)
 - [ML Lifecycle from Data Ingestion to Model Deployment (Snowflake)](https://www.snowflake.com/en/developers/guides/first-machine-learning-project/)
 
 ------
