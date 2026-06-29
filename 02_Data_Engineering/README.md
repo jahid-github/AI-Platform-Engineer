@@ -53,6 +53,7 @@
 - [Databricks](https://www.youtube.com/watch?v=oA90QLr_PsM&list=PLNcg_FV9n7qZWchr-GE5iPPBmOjiffK6O): Delta Lake, Spark compute, Unity Catalog, [Databricks Academy](https://www.databricks.com/learn/training/home)
 - [GitHub Actions DataCamp](https://campus.datacamp.com/courses/cicd-for-machine-learning/introduction-to-continuous-integrationcontinuous-delivery-and-yaml?ex=7): CI/CD for data pipelines
 - [AWS DataCamp Course](https://app.datacamp.com/learn/skill-tracks/aws-cloud-practitioner-clf-c02)
+- [Snowflake All DataCamp Courses](https://app.datacamp.com/learn/skill-tracks?topics=17)
 
 ### 7. Containerization & Orchestration
 - Docker: containerize pipelines and services
