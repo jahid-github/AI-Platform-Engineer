@@ -28,6 +28,7 @@
 
 ### Git, Shell, and Environment Setup
 
+* [Git and Github DataCamp Course](https://app.datacamp.com/learn/skill-tracks?topics=4)
 * [Bash Cheat Sheet](./6Bash_Cheat_Sheet.pdf)
 * [Conda Cheat Sheet](./7Conda_Cheat_Sheet_1.pdf)
 * [Docker for Data Science Cheat Sheet](./8Docker_for_Data_Science_Cheat_Sheet_2.pdf)
