@@ -48,10 +48,11 @@
 - Use cases: real-time dashboards, fraud detection, event-driven ML
 
 ### 6. Cloud Data Platforms
-- Azure: Data Lake Storage (ADLS), Data Factory (ADF), Synapse Analytics, [Azure CLI DataCamp Cheat Sheet](./Azure_CLI_Cheat_Sheet.pdf)
-- GCP: BigQuery, Cloud Storage, Dataflow, Pub/Sub, Vertex AI [Google Cloud Associate Engineer freecodecamp youtube Course](https://www.youtube.com/watch?v=OlAmyf8_4O4)
+- [Azure DataCampp Course](https://app.datacamp.com/learn/skill-tracks/microsoft-azure-fundamentals-az-900): Data Lake Storage (ADLS), Data Factory (ADF), Synapse Analytics, [Azure CLI DataCamp Cheat Sheet](./Azure_CLI_Cheat_Sheet.pdf)
+- [GCP Data Eng. DataCamp Course](https://app.datacamp.com/learn/skill-tracks/google-cloud-data-engineer): BigQuery, Cloud Storage, Dataflow, Pub/Sub, Vertex AI [Google Cloud Associate Engineer freecodecamp youtube Course](https://www.youtube.com/watch?v=OlAmyf8_4O4)
 - [Databricks](https://www.youtube.com/watch?v=oA90QLr_PsM&list=PLNcg_FV9n7qZWchr-GE5iPPBmOjiffK6O): Delta Lake, Spark compute, Unity Catalog, [Databricks Academy](https://www.databricks.com/learn/training/home)
 - [GitHub Actions DataCamp](https://campus.datacamp.com/courses/cicd-for-machine-learning/introduction-to-continuous-integrationcontinuous-delivery-and-yaml?ex=7): CI/CD for data pipelines
+- [AWS DataCamp Course](https://app.datacamp.com/learn/skill-tracks/aws-cloud-practitioner-clf-c02)
 
 ### 7. Containerization & Orchestration
 - Docker: containerize pipelines and services
