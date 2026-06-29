@@ -44,7 +44,7 @@
 ### 5. Stream Processing
 
 - Apache Kafka [(Kafka Quickstart)](https://kafka.apache.org/quickstart): topics, producers, consumers, partitions, 
-- [Apache Spark](https://spark.apache.org/): Distributed data processing at scale, Structured Streaming
+- [Apache Spark](https://spark.apache.org/): Distributed data processing at scale, Structured Streaming. [Big Data with PySpark DataCamp Course](https://app.datacamp.com/learn/skill-tracks/big-data-with-pyspark)
 - MQTT for IoT/sensor data (aligned with Phase 8 robotics)
 - Use cases: real-time dashboards, fraud detection, event-driven ML
 
