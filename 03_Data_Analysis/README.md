@@ -56,5 +56,6 @@
 - [Excel](https://www.w3schools.com/excel/index.php)
 - [Google Sheets](https://www.w3schools.com/googlesheets/index.php)
 - [Bokeh](./Bokeh_Cheat_Sheet.pdf): Interactive visualizations for modern web browsers
+- [Alteryx Designer DataCamp Course](https://app.datacamp.com/learn/skill-tracks/alteryx-fundamentals)
 
 ---
