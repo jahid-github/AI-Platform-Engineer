@@ -7,23 +7,23 @@
 | 3 | []() | [Automate the boring stuff with puthon](./01_IT_Support_and_Fundamentals/automate-the-boring-stuff-with-python-3rd-edition.pdf) | [SQL for Data Analysis Advance](./01_IT_Support_and_Fundamentals/SQL%20for%20Data%20Analysis%20Advance.pdf) |
 | 4 | []() | [Fluent Puthon](./01_IT_Support_and_Fundamentals/Fluent%20Python.pdf) | []() |
 | 5 | []() | [Python Cookbook](./01_IT_Support_and_Fundamentals/Python%20Cookbook.pdf) | []() |
-| 6 | []() | [Python Basics Cheat Sheet](./15python-basics-cheat-sheet-v4.pdf) | []() |
-| 7 | []() | [Python Cheat Sheet](./16python-cheat-sheet.pdf) | []() |
-| 8 | []() | [Become a Python Developer]() | []() | []() |
-| 9 | []() | [115 Python Problem](./17Python_Problems_115.ipynb) | []() |
-| 10 | []() | [FreeCodeCamp Python OOP](./18Python%20OOP.ipynb) | []() |
+| 6 | []() | [Python Basics Cheat Sheet](./01_IT_Support_and_Fundamentals/15python-basics-cheat-sheet-v4.pdf) | []() |
+| 7 | []() | [Python Cheat Sheet](./01_IT_Support_and_Fundamentals/16python-cheat-sheet.pdf) | []() |
+| 8 | []() | [Become a Python Developer](./01_IT_Support_and_Fundamentals/) | []() | []() |
+| 9 | []() | [115 Python Problem](./01_IT_Support_and_Fundamentals/17Python_Problems_115.ipynb) | []() |
+| 10 | []() | [FreeCodeCamp Python OOP](./01_IT_Support_and_Fundamentals/18Python%20OOP.ipynb) | []() |
 ---
 ---
 | SL No | DE | DA |
 |-------|----|----|
-| 1 | []() | []() |
-| 2 | []() | []() |
-| 3 | []() | []() |
-| 4 | []() | []() |
-| 5 | []() | []() |
-| 6 | []() | []() |
-| 7 | []() | []() |
-| 8 | []() | []() |
+| 1 | [Learning SQL, 3rd Ed.](./01_IT_Support_and_Fundamentals/Learning%20SQL.pdf) | []() |
+| 2 | [Fundamentals of Data Engineering](./02_Data_Engineering/Fundamentals%20of%20Data%20Engineering.pdf) | []() |
+| 3 | [Designing Data-Intensive Applications](./02_Data_Engineering/designing-data-intensive-applications.pdf) | []() |
+| 4 | [Python for Data Analysis, 3rd Ed.](./01_IT_Support_and_Fundamentals/Python-for-Data-Analysis.pdf) | []() |
+| 5 | [Streaming Systems](./02_Data_Engineering/streaming-systems-the-what-where-when-and-how-of-large-scale-data-processing.pdf) | []() |
+| 6 | [Designing Data-Intensive Applications, 2nd Ed.](./02_Data_Engineering/designing-data-intensive-applications.pdf) | []() |
+| 7 | [Terraform Up and Running 3rd Edition](./02_Data_Engineering/Terraform%20Up%20and%20Running%203rd%20Edition.pdf) | []() |
+| 8 | [Kubernetes Up and Running 3rd Edition](./02_Data_Engineering/Kubernetes%20Up%20and%20Running%203rd%20Edition.pdf) | []() |
 | 9 | []() | []() |
 | 10 | []() | []() |
 ---
