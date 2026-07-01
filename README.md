@@ -30,14 +30,14 @@
 ---
 | SL No | ML and DL  | CV |
 |-------|------------|----|
-| 1 | []() | []() |
-| 2 | []() | []() |
-| 3 | []() | []() |
-| 4 | []() | []() |
-| 5 | []() | []() |
-| 6 | []() | []() |
-| 7 | []() | []() |
-| 8 | []() | []() |
+| 1 | [Introduction to Machine Learning with Python](./04_Data%20_to_Model_Implementation/Introduction%20to%20Machine%20Learning%20with%20Python.pdf) | [Programming Computer Vision with Python]() |
+| 2 | [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Ed.](./04_Data%20_to_Model_Implementation/Hands-On%20Machine%20Learning%20with%20Scikit-Learn,%20Keras,%20and%20TensorFlow.pdf) | [Learning OpenCV 5 Computer Vision with Python]() |
+| 3 | [Designing Machine Learning Systems](./04_Data%20_to_Model_Implementation/Designing%20Machine%20Learning%20Systems.pdf) | [Modern Computer Vision with PyTorch, 2nd Ed.]() |
+| 4 | [Machine Learning Production Systems](./04_Data%20_to_Model_Implementation/Machine%20Learning%20Production%20Systems.pdf) | [Deep Learning for Computer Vision]() |
+| 5 | [Machine Learning System Design](https://learning.oreilly.com/videos/machine-learning-system/9781633438750VE/) | [Computer Vision Projects with Python]() |
+| 6 | [Machine-Learning-Systems-Vol1](./04_Data%20_to_Model_Implementation/Machine-Learning-Systems-Vol1.pdf) | []() |
+| 7 | [Machine-Learning-Systems-Vol2](./04_Data%20_to_Model_Implementation/Machine-Learning-Systems-Vol2.pdf) | []() |
+| 8 | [Data science from scratch](./04_Data%20_to_Model_Implementation/Data%20science%20from%20scratch.pdf) | []() |
 | 9 | []() | []() |
 | 10 | []() | []() |
 ---
