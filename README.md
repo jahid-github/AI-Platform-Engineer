@@ -44,9 +44,9 @@
 ---
 | SL No | AI and Automation  | Robotics  |
 |-------|--------------------|-----------|
-| 1 | []() | []() |
-| 2 | []() | []() |
-| 3 | []() | []() |
+| 1 | [AI Engineering](./06_ICT_Automation_AI/AI%20Engineering.pdf) | [Building Serverless Robotics with AWS AI and ROS 2 Designing Drone Detection and Defense Systems Under Fire](./05_Intelligent_Robotics_(Physical_AI)/Building_Serverless_Robotics.pdf) |
+| 2 | [Hands-On Large Language Models](./06_ICT_Automation_AI/Hands-On%20Large%20Language%20Models.pdf) | []() |
+| 3 | [Hands-On RAG for Production](./06_ICT_Automation_AI/Hands-On%20RAG%20for%20Production.pdf) | []() |
 | 4 | []() | []() |
 | 5 | []() | []() |
 | 6 | []() | []() |
