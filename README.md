@@ -38,8 +38,8 @@
 | 6 | [Machine-Learning-Systems-Vol1](./04_Data%20_to_Model_Implementation/Machine-Learning-Systems-Vol1.pdf) | []() |
 | 7 | [Machine-Learning-Systems-Vol2](./04_Data%20_to_Model_Implementation/Machine-Learning-Systems-Vol2.pdf) | []() |
 | 8 | [Data science from scratch](./04_Data%20_to_Model_Implementation/Data%20science%20from%20scratch.pdf) | []() |
-| 9 | []() | []() |
-| 10 | []() | []() |
+| 9 | [Google ML Full Courses](https://developers.google.com/machine-learning) | []() |
+| 10 | [Neural Networks for ML YT PlayList](https://youtube.com/playlist?list=PLLssT5z_DsK_gyrQ_biidwvPYCRNGI3iv&si=yLXBc0Tshh5fdY3q) | []() |
 ---
 ---
 | SL No | AI and Automation  | Robotics  |
