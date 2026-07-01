@@ -112,6 +112,12 @@ Modern AI products increasingly depend on engineering **around** models — not 
 * [FastAPI Documentation](https://fastapi.tiangolo.com/)
 
 ## Prjects
-### Upcoming
+### Developed
+1. 
+2. 
+3.
+
 ### Develpoing
-- [Building-RAG-Chatbots-for-Technical-Documentation](https://github.com/jahid-github/Building-RAG-Chatbots-for-Technical-Documentation)
+1. [Building-RAG-Chatbots-for-Technical-Documentation](https://github.com/jahid-github/Building-RAG-Chatbots-for-Technical-Documentation)
+2. 
+3. 
