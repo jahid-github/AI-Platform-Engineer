@@ -30,7 +30,10 @@ The following ideas have been promoted into flagship portfolio projects:
 | [Building-RAG-Chatbots-for-Technical-Documentation](https://github.com/jahid-github/Building-RAG-Chatbots-for-Technical-Documentation) |
 | [Smart Retail Sales & Inventory Analytics Pipeline in Snowflake]() |
 | [Inventory MGT System for HAMK University IoT/ICT Lab](https://github.com/Lunahere/IMS-IoTLab) |
-
+| [BNPL Credit Risk Prediction using Machine Learning](https://github.com/jahid-github/bnpl-credit-risk)|
+| [Exploring dbt Projects on Snowflake](https://www.snowflake.com/en/developers/guides/dbt-projects-on-snowflake/) |
+| [Snowflake DCM (Database Change Management)](https://www.snowflake.com/en/developers/guides/get-started-snowflake-dcm-projects/) |
+| [Build a Retail Analytics Data Engineering Pipeline with Snowflake](https://www.snowflake.com/en/developers/guides/building-retail-analytics-de-pipeline/) |
 ---
 ---
 
