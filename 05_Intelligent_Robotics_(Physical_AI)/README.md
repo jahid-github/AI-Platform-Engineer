@@ -38,7 +38,7 @@ For a Finland-oriented roadmap, employer-aligned project ideas, and an 8-week st
 
 ---
 
-## 1. Foundations (Non-negotiable)
+## 1. Foundations
 
 ### Math
 
@@ -328,20 +328,5 @@ Work through these progressively to build real Physical AI skills:
 * [Stanford CS336: Physical Intelligence](https://cs336.stanford.edu/) — frontier Physical AI course
 * [Open-X Embodiment Dataset](https://robotics-transformer-x.github.io/) — largest robot learning dataset
 * [Lilian Weng: Reinforcement Learning for Robotics](https://lilianweng.github.io/)
-
-## Physical AI Project
-
-Minimum proof:
-
-- ROS2 workspace with clear package structure
-- one perception node
-- one transform or pose-estimation step
-- one action or planning step triggered by perception
-- simulation demo with screenshots or short video
-
-Strong evidence:
-
-- TF tree explanation
-- latency or FPS measurement
-- failure cases
-- Dockerized dev environment or reproducible setup notes
+---
+---

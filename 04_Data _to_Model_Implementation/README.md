@@ -100,20 +100,8 @@ Strong evidence:
 - inference script or small API
 - business interpretation of results
 
-### pre-Developing Projects
-
-[Here is the 33 projects list ](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels)
-
-### Developing Projects
-
-1. 
-2. 
-3. 
-4. 
-5. 
-
-------
-
+---
+---
 # Machine and Computer Vision
 
 Computer vision gives machines the ability to interpret and understand the visual world. It is one of the most impactful application areas of modern AI and the **primary perception layer for Physical AI and Robotics**.
@@ -206,7 +194,7 @@ Computer vision gives machines the ability to interpret and understand the visua
 - Document vision (OCR, layout parsing)
 - Smart devices (gesture recognition, face detection)
 - Multimodal systems (vision + language)
-------
+---
 
 ## Learning Resources
 
@@ -227,33 +215,9 @@ Computer vision gives machines the ability to interpret and understand the visua
 * [Kaggle Learn: Computer Vision](https://www.kaggle.com/learn/computer-vision)
 * [DataCamp Computer Vision Courses](https://www.datacamp.com/courses-all?technology=Computer+Vision)
 
-------
-## Computer Vision Project
+---
+---
 
-Minimum proof:
-
-- dataset description
-- training or fine-tuning workflow
-- measurable evaluation
-- qualitative failure-case review
-
-Strong evidence:
-
-- edge or optimized inference
-- comparison between two model approaches
-- deployment notes
-
-### pre-Developing
-1. 
-2. 
-3. 
-
-### Developing
-
-1. 
-2. 
-3. 
-------
 # Deep Learning and NLP
 
 Deep learning uses multi-layer neural networks to learn complex patterns directly from raw data. It powers modern computer vision, NLP, and physical AI systems. **PyTorch is the primary framework** — preferred for research, robotics, and edge AI.
@@ -420,4 +384,5 @@ NLP enables machines to understand, process, and generate human language. It und
 - [Stanford CS224N: NLP with Deep Learning](https://web.stanford.edu/class/cs224n/)
 - [Kaggle: Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing)
 
------
+---
+---

@@ -57,6 +57,5 @@
 - MLflow: experiment tracking, model registry
 - DVC: data versioning alongside Git
 - Weights & Biases: experiment visualization
-
-## Data Engineering Project
-1. Smart Retail Sales & Inventory Analytics Pipeline in Snowflake
+---
+---

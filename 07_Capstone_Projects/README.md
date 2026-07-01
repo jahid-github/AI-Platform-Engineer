@@ -1,17 +1,37 @@
-# Capstone Projects
-
-
+# Projects
+---
+### DE/DA
+- [Here is the 33 projects list ](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels)
+---
+---
+### ML/DL/CV
+- 
+- 
+- 
+---
+---
+### AI/Automation
+- 
+- 
+- 
+---
+---
 ## Current Portfolio Conversion Targets
 
 The following ideas have been promoted into flagship portfolio projects:
 
-| Source idea | Implemented destination |
-|------------|-------------------------|
-| End-to-end ETL for job listings | [../projects/01_data_engineering_job_market_pipeline](../projects/01_data_engineering_job_market_pipeline/) |
-| ML on job-market or structured data | [../projects/02_tabular_ml_job_market_intelligence](../projects/02_tabular_ml_job_market_intelligence/) |
-| Vision-based inspection / detection | [../projects/03_computer_vision_defect_detection](../projects/03_computer_vision_defect_detection/) |
-| Robotics perception and telemetry pipeline | [../projects/04_physical_ai_ros2_vision_guided_manipulation](../projects/04_physical_ai_ros2_vision_guided_manipulation/) |
+| Source ideas with Implemented destination |
+|-------------------------------------------|
+| [End-to-end ETL for job listings]() | 
+| [ML on job-market or structured data]() |
+| [Vision-based inspection / detection]() |
+| [Robotics perception and telemetry pipeline]() |
+| [Deepfake Video and Image Detection using Deep Learning](https://github.com/jahid-github/Deepfake-Video-and-Image-Detection-using-Deep-Learning) |
+| [Building-RAG-Chatbots-for-Technical-Documentation](https://github.com/jahid-github/Building-RAG-Chatbots-for-Technical-Documentation) |
+| [Smart Retail Sales & Inventory Analytics Pipeline in Snowflake]() |
+| [Inventory MGT System for HAMK University IoT/ICT Lab](https://github.com/Lunahere/IMS-IoTLab) |
 
+---
 ---
 
 ## Idea Backlog
