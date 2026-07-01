@@ -1,12 +1,5 @@
 # Data Analysis
-
-- Beginner: [Learning SQL, 3rd Ed.](https://drive.google.com/file/d/14Go3hhyl4yemA4JWBuRQmMbRUB9C65Pm/view?usp=drivesdk)
-- Beginner–Intermediate: [Practical SQL, 2nd Ed.](https://drive.google.com/file/d/1y0JQwDFNcp_QtMfekCDNxdb49kAgZGC8/view?usp=drivesdk)
-- Intermediate: [Python for Data Analysis, 3rd Ed.](https://drive.google.com/file/d/1Lw2FhIn-Piao7TVM__uyV_5RkZMQsTdx/view?usp=drivesdk)
-- Intermediate: [Practical Statistics for Data Scientists](https://drive.google.com/file/d/1F_-2DdXJNW8hUX0bEtlZlJaZ_ySlKMFO/view?usp=drivesdk)
-- Intermediate–Advanced: [SQL for Data Analysis](https://drive.google.com/file/d/1w33OGGmmbAe9EGlF3mzyxXI9rmBjCK8d/view?usp=drivesdk)
-- Visualization: [Data Visualization with Python and JavaScript 2nd Ed.](https://learning.oreilly.com/library/view/data-visualization-with/9781098111861/)
-
+---
 ### 1. [NumPy — Numerical Computing](https://www.w3schools.com/python/numpy/default.asp)
 - Multidimensional arrays, vectorized operations, broadcasting
 - Mathematical functions: linear algebra, statistics, Fourier transforms

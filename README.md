@@ -16,13 +16,13 @@
 ---
 | SL No | DE | DA |
 |-------|----|----|
-| 1 | [Learning SQL, 3rd Ed.](./01_IT_Support_and_Fundamentals/Learning%20SQL.pdf) | []() |
-| 2 | [Fundamentals of Data Engineering](./02_Data_Engineering/Fundamentals%20of%20Data%20Engineering.pdf) | []() |
-| 3 | [Designing Data-Intensive Applications](./02_Data_Engineering/designing-data-intensive-applications.pdf) | []() |
-| 4 | [Python for Data Analysis, 3rd Ed.](./01_IT_Support_and_Fundamentals/Python-for-Data-Analysis.pdf) | []() |
-| 5 | [Streaming Systems](./02_Data_Engineering/streaming-systems-the-what-where-when-and-how-of-large-scale-data-processing.pdf) | []() |
-| 6 | [Designing Data-Intensive Applications, 2nd Ed.](./02_Data_Engineering/designing-data-intensive-applications.pdf) | []() |
-| 7 | [Terraform Up and Running 3rd Edition](./02_Data_Engineering/Terraform%20Up%20and%20Running%203rd%20Edition.pdf) | []() |
+| 1 | [Learning SQL, 3rd Ed.](./01_IT_Support_and_Fundamentals/Learning%20SQL.pdf) | [Learning SQL, 3rd Ed.](./01_IT_Support_and_Fundamentals/Learning%20SQL.pdf) |
+| 2 | [Fundamentals of Data Engineering](./02_Data_Engineering/Fundamentals%20of%20Data%20Engineering.pdf) | [Practical SQL, 2nd Ed.](./01_IT_Support_and_Fundamentals/Practical%20SQL.pdf) |
+| 3 | [Designing Data-Intensive Applications](./02_Data_Engineering/designing-data-intensive-applications.pdf) | [Python for Data Analysis, 3rd Ed.](./01_IT_Support_and_Fundamentals/Python-for-Data-Analysis.pdf) |
+| 4 | [Python for Data Analysis, 3rd Ed.](./01_IT_Support_and_Fundamentals/Python-for-Data-Analysis.pdf) | [Practical Statistics for Data Scientists](./01_IT_Support_and_Fundamentals/Practical%20Statistics%20for%20Data%20Scientists.pdf) |
+| 5 | [Streaming Systems](./02_Data_Engineering/streaming-systems-the-what-where-when-and-how-of-large-scale-data-processing.pdf) | [SQL for Data Analysis](./01_IT_Support_and_Fundamentals/SQL%20for%20Data%20Analysis%20Advance.pdf) |
+| 6 | [Designing Data-Intensive Applications, 2nd Ed.](./02_Data_Engineering/designing-data-intensive-applications.pdf) | [Data Visualization with Python and JavaScript 2nd Ed.](./03_Data_Analysis/Data%20Visualization%20with%20Python%20and%20JavaScript,%202nd%20Edition.pdf) |
+| 7 | [Terraform Up and Running 3rd Edition](./02_Data_Engineering/Terraform%20Up%20and%20Running%203rd%20Edition.pdf) | [Storytelling-with-Data_-A-Data-Visualization-Guide-for-Business-Professionals](./03_Data_Analysis/Storytelling-with-Data_-A-Data-Visualization-Guide-for-Business-Professionals.pdf) |
 | 8 | [Kubernetes Up and Running 3rd Edition](./02_Data_Engineering/Kubernetes%20Up%20and%20Running%203rd%20Edition.pdf) | []() |
 | 9 | []() | []() |
 | 10 | []() | []() |
