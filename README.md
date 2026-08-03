@@ -83,7 +83,7 @@
 | 21 | **SQL Server Developer** |
 ---
 ---
-## Some platforms are being importance im this journey
+## Some platforms are being importance in this journey
 - [Netacad](https://www.netacad.com/catalogs/learn)
 - Learn Google, AWS, MS, Snowflake, Databricks
 - DataCamp
