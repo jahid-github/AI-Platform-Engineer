@@ -93,5 +93,6 @@
 - HackerRank
 - WorldQuant
 - W3Schools
+- fast.ai
 - [Data Professional Certification](./Data_Certification.jpeg)
 ---
