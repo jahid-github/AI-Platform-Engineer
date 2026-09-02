@@ -1,4 +1,26 @@
-## Books for the Preparation
+## Preparation
+
+1. Python
+   ↓
+   ↓
+   ↓
+3. SQL
+   ↓
+   ↓
+5. Data Analysis with Pandas + NumPy
+   ↓
+6. Data Visualization with 
+   ↓**➜[Matplotlib](./https://www.w3schools.com/python/matplotlib_intro.asp)**➜**Seaborn**➜**Plotly**
+   
+   ↓**➜[BI]**➜****(Grafana, Apache Superset / Metabase: open-source BI platforms, Looker Studio,Tableau, Power BI)**
+   
+8. Machine Learning with scikit-learn
+   ↓
+9. Deep Learning with PyTorch
+   ↓
+10. Practical AI applications
+   ↓
+11. Deploy models with FastAPI + Docker
 
 | SL No | Math | Python | SQL |
 |-------|------|--------|-----|
