@@ -16,11 +16,11 @@
 
    ↓ **➜[Designing-data-intensive-applications.pdf](https://drive.google.com/file/d/1b97cZ_RSX6mNamJwzvwinXwfd9NNSqNq/view?usp=sharing)**
    
-   ↓ **➜Real Data Engineering:-** **➜Data Formats➜ETL/ELT➜Data Modeling➜dbt➜Airflow**
+   ↓ **➜Real Data Engineering:** **➜Data Formats➜ETL/ELT➜Data Modeling➜dbt➜Airflow**
 
-   ↓ **➜Production & Cloud:-** **➜Docker➜Cloud➜PySpark**
+   ↓ **➜Production & Cloud:** **➜Docker➜Cloud➜PySpark**
 
-   ↓ **➜Advanced:-** **➜Kafka➜CI/CD**
+   ↓ **➜Advanced:** **➜Kafka➜CI/CD**
 
 ## 4. Data Analysis with
 
