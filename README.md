@@ -1,6 +1,6 @@
-## Preparation
+# Preparation
 
-1. Python
+## 1. Python
 
    ↓  **➜[Learn with W3School](https://www.w3schools.com/python/default.asp#gsc.tab=0)**
    
@@ -8,13 +8,13 @@
    
    ↓
    
-2. SQL
+## 2. SQL
 
-   ↓ **➜[Learn with W3School](https://www.w3schools.com/sql/default.asp)**
+   **↓** **➜[Learn with W3School](https://www.w3schools.com/sql/default.asp)**
 
-   ↓ **➜[Practice with LeetCode](https://leetcode.com/)**
+   **↓** **➜[Practice with LeetCode](https://leetcode.com/)**
 
-3. Data Engineering
+## 3. Data Engineering
 
    ↓ **Real Data Engineering** **➜Data Formats➜ETL/ELT➜Data Modeling➜dbt➜Airflow**
 
