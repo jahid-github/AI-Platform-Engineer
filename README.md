@@ -28,7 +28,7 @@
 
    ↓ **➜[NumPy](https://www.w3schools.com/python/numpy/default.asp)**
    
-7. Data Visualization with 
+## 5. Data Visualization with 
 
    ↓ **➜[Matplotlib](./https://www.w3schools.com/python/matplotlib_intro.asp)**➜**Seaborn**➜**Plotly**
    
