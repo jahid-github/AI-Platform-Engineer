@@ -10,9 +10,9 @@
    
 ## 2. SQL
 
-   **↓** **➜[Learn with W3School](https://www.w3schools.com/sql/default.asp)**
+   ↓ **➜[Learn with W3School](https://www.w3schools.com/sql/default.asp)**
 
-   **↓** **➜[Practice with LeetCode](https://leetcode.com/)**
+   ↓ **➜[Practice with LeetCode](https://leetcode.com/)**
 
 ## 3. Data Engineering
 
@@ -20,7 +20,9 @@
 
    ↓ **Production & Cloud** **➜Docker➜Cloud➜PySpark**
 
-5. Data Analysis with
+   ↓ **Advanced** **➜Kafka➜CI/CD**
+
+## 4. Data Analysis with
 
    ↓ **➜[Pandas](https://www.w3schools.com/python/pandas/default.asp)**
 
