@@ -2,21 +2,28 @@
 
 1. Python
 
-   ↓
+   ↓  **➜[Learn with W3School](https://www.w3schools.com/python/default.asp#gsc.tab=0)**
+   
+   ↓  **➜[Practice with LeetCode](https://leetcode.com/)**
    
    ↓
    
-   ↓
-   
-3. SQL
+2. SQL
 
-   ↓
+   ↓ **➜[Learn with W3School](https://www.w3schools.com/sql/default.asp)**
 
-   ↓
-   
-5. Data Analysis with Pandas + NumPy
+   ↓ **➜[Practice with LeetCode](https://leetcode.com/)**
 
-   ↓
+3. Data Engineering
+
+   ↓ **➜[Learn with W3School](https://www.w3schools.com/sql/default.asp)**
+
+   ↓ **➜[Practice with LeetCode](https://leetcode.com/)**
+5. Data Analysis with
+
+   ↓ **➜[Pandas](https://www.w3schools.com/python/pandas/default.asp)**
+
+   ↓ **➜[NumPy](https://www.w3schools.com/python/numpy/default.asp)**
    
 7. Data Visualization with 
 
