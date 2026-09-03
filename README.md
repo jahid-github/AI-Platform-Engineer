@@ -38,7 +38,7 @@
 
    ↓ **➜[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.pdf](https://drive.google.com/file/d/1EK11Fq_KzvmzSOyLK1Xbu66kStcqndbG/view?usp=sharing)**
    
-   ↓ **➜[ML from W3School](https://www.w3schools.com/python/python_ml_getting_started.asp)
+   ↓ **➜[ML from W3School](https://www.w3schools.com/python/python_ml_getting_started.asp)**
 
    ↓ **➜Deep Learning with PyTorch**
 
@@ -51,13 +51,15 @@
    
 ## 8. Practical AI applications
 
-   ↓ **➜[AI Engineering.pdf](https://drive.google.com/file/d/1wsnGJts7qJ6ZOVQ8yB9FB1siICdq02G1/view?usp=sharing)
+   ↓ **➜[AI Engineering.pdf](https://drive.google.com/file/d/1wsnGJts7qJ6ZOVQ8yB9FB1siICdq02G1/view?usp=sharing)**
 
-   ↓ **➜[Hands-On Large Language Models.pdf](https://drive.google.com/file/d/1sctQhBE3whlRKrS5RDL1adxkmlZsaBaa/view?usp=sharing)
+   ↓ **➜[Hands-On Large Language Models.pdf](https://drive.google.com/file/d/1sctQhBE3whlRKrS5RDL1adxkmlZsaBaa/view?usp=sharing)**
 
-   ↓ **➜[Hands-On RAG for Production.pdf](https://drive.google.com/file/d/1YdCLIa1UfA73YHTvAPE5gphrAuj4iaTS/view?usp=sharing)
+   ↓ **➜[Hands-On RAG for Production.pdf](https://drive.google.com/file/d/1YdCLIa1UfA73YHTvAPE5gphrAuj4iaTS/view?usp=sharing)**
    
 ## 9. Deploy models with FastAPI + Docker
+   
+   ↓
 
 
 ---
