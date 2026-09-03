@@ -16,9 +16,10 @@
 
 3. Data Engineering
 
-   ↓ **➜[Learn with W3School](https://www.w3schools.com/sql/default.asp)**
+   ↓ **Real Data Engineering** **➜Data Formats➜ETL/ELT➜Data Modeling➜dbt➜Airflow**
 
-   ↓ **➜[Practice with LeetCode](https://leetcode.com/)**
+   ↓ **Production & Cloud** **➜Docker➜Cloud➜PySpark**
+
 5. Data Analysis with
 
    ↓ **➜[Pandas](https://www.w3schools.com/python/pandas/default.asp)**
