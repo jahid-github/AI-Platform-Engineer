@@ -30,7 +30,7 @@
    
 ## 5. Data Visualization with 
 
-   ↓ **➜[Matplotlib with W3School](./https://www.w3schools.com/python/matplotlib_intro.asp)➜Seaborn➜Plotly**
+   ↓ **➜[Matplotlib with W3School](https://www.w3schools.com/python/matplotlib_intro.asp)➜Seaborn➜Plotly**
    
    ↓ **➜BI➜(Grafana,Apache Superset/Metabase:open-source BI platforms,Looker Studio,Tableau,Power BI)**
    
